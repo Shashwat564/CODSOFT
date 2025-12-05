@@ -62,6 +62,7 @@ Hashtag: #VirtualInternship
 
 🙌 Acknowledgements Special thanks to CODSOFT for the opportunity and guidance throughout the internship. This experience helped me strengthen my web development fundamentals and apply them in practical projects.
 
-📬 Contact Sumit Mandal [www.linkedin.com/in/sumitmandal59]
+📬 Contact shashwattyagi61@gmail.com
+
 
 ⭐ Feel free to explore the projects, clone the repository, and provide feedback. Thank you for visiting!
